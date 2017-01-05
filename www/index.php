@@ -43,7 +43,7 @@ echo $contents; } ?>
 
 <!-- end of project description -->
 
-<p> No content added. </p>
+<p>The `dpqrcox' package provides d/p/q/r functions of Coxian distributions. A Coxian distribution can approximate any positive-valued distribution. However, approximations is poor sometimes. Numerical error in computing density and probability functions is one of reasons for the issue. The package provided with dpqr functions of Coxian distributions.</p>
 
 <p> The <strong>project summary page</strong> you can find <a href="http://<?php echo $domain; ?>/projects/<?php echo $group_name; ?>/"><strong>here</strong></a>. </p>
 
