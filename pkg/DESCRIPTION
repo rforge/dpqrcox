@@ -1,0 +1,11 @@
+Package: dpqrcox
+Type: Package
+Title: The `dpqrcox' package provides d/p/q/r functions of Coxian distributions.
+Version: 1.0
+Date: 2016-09-19
+Author: Duan qihong, Liu junrong
+Maintainer: Duan qihong <khtuan@126.com>
+Description: The `dpqrcox' package provides d/p/q/r functions of Coxian distributions. A Coxian distribution can approximate any positive-valued distribution. However, approximations is poor sometimes. Numerical error in computing density and probability functions is one of reasons for the issue. The package provided with dpqr functions of Coxian distributions.
+License: GPL (>= 2)
+Imports: Rcpp (>= 0.12.3)
+LinkingTo: Rcpp
